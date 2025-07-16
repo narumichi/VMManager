@@ -1,0 +1,15 @@
+{
+	"vmrunPath": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmrun.exe",
+	"VirtualMachines": [
+		{
+			"id": "vm01",
+			"name": "Virtual Machine 01",
+			"path": "C:\\path\\to\\vm\\file01.vmx"
+		},
+		{
+			"id": "vm02",
+			"name": "Virtual Machine 02",
+			"path": "C:\\path\\to\\vm\\file02.vmx"
+		}
+	]
+}
